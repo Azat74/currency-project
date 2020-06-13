@@ -36,5 +36,7 @@ module.exports = {
       'never'
     ],
     'no-unused-vars': 1,
+    'newline-after-var': 2,
+    'eol-last': ['error', 'always']
   }
 }
