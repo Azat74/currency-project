@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# dependencies
+/node_modules
+/.next
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+.vscode/settings.json
